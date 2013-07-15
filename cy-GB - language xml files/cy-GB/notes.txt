@@ -1,0 +1,17 @@
+Sections excluded from sentence case are:
+
+<!-- Start site Settins Admin --> Ln 1751
+ to 
+<!-- End site Settings Admin --> 1883
+
+<!-- Begin Admin Home --> 1885
+<!-- End Admin Home --> 1888
+
+<!-- Start Admin member configuration --> 1894
+
+<!-- End Admin member configuration --> 1904
+
+
+
+k  sad
+
