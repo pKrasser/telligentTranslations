@@ -22,7 +22,7 @@
 
   <message id="5">
     <title>The file you requested cannot be found</title>
-    <body>We are sorry, but the file you requested has either been moved or deleted and is no longer available.</body>
+    <body>Sorry, but the file you requested has either been moved or deleted and is no longer available.</body>
   </message>
 
   <message id="6">
