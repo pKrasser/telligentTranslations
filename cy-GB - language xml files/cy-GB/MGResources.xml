@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-
+<!-- test a -->
   <resource name="CP_Settings_Email_EnableMG">Enable Mail Gateway</resource>
   <resource name="CP_Settings_Email_EnableMG_Descr">Enable or disable the Mail Gateway add-on for this site.</resource>
   <resource name="CP_Settings_Email_MG_RemoteAccessCode">Remote Access Code</resource>
